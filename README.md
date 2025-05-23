@@ -3,7 +3,7 @@
 ---
 
 ````markdown
-# 🖐️ Virtual Keyboard with Hand Gesture & GPT Word Prediction
+## 🖐️ Virtual Keyboard with Hand Gesture & GPT Word Prediction
 
 This Python project is an AI-powered Virtual Keyboard using OpenCV and hand tracking. It allows you to type by hovering your index finger over keys on the screen and includes:
 
@@ -17,7 +17,7 @@ This Python project is an AI-powered Virtual Keyboard using OpenCV and hand trac
 
 ## 📸 Demo
 
-<img width="955" alt="image" src="https://github.com/user-attachments/assets/4ca20fcd-38e8-49d5-b164-d52b70dc8d15" />
+![Screenshot 2025-05-23 174559](https://github.com/user-attachments/assets/8b177fa2-dc59-4daa-8dba-45ddf1ac1b00)
 
 
 > You can type using your index finger. Hold for 1 second to press a key. Use the "Predict" button to complete words based on GPT prediction.
