@@ -1,5 +1,7 @@
 # Virtual-Keyboard-With-GPT-Next-Word-Prediction-
 
+![Screenshot 2025-05-23 174559](https://github.com/user-attachments/assets/8b177fa2-dc59-4daa-8dba-45ddf1ac1b00)
+
 ---
 
 ````markdown
@@ -14,11 +16,6 @@ This Python project is an AI-powered Virtual Keyboard using OpenCV and hand trac
 - ⌨️ On-screen virtual keyboard (QWERTY)
 
 ---
-
-## 📸 Demo
-
-![Screenshot 2025-05-23 174559](https://github.com/user-attachments/assets/8b177fa2-dc59-4daa-8dba-45ddf1ac1b00)
-
 
 > You can type using your index finger. Hold for 1 second to press a key. Use the "Predict" button to complete words based on GPT prediction.
 
